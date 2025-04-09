@@ -51,7 +51,8 @@ Note: If you are using Windows, make sure Docker Desktop is running.
 
 ## Demo video
 
-- Available at [https://www.youtube.com/watch?v=x_BFtcoaTks](https://www.youtube.com/watch?v=x_BFtcoaTks)
+- Available at [https://youtu.be/IEIY7cP5M2U?si=TjLXJs0Np7mq4zNa]
+
 ## Screenshots
 
 ![Home Page](./screenshots/ss-1.png)
